@@ -1,1 +1,1 @@
-# Number-plate-detection-using-YOLOV8-and-OCR
+# Licence-Plate-Detection-and-Recognition-using-YOLO-V8-EasyOCR
